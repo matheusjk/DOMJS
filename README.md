@@ -26,7 +26,7 @@
 
 <h4> TELA DARK MODE </h4>
 
-<img src="Captura de tela de 2022-02-14 23-46-57.png">
+<img src="Captura de tela de 2022-02-15 00-32-09.png">
 
 ##
 
@@ -35,5 +35,5 @@
 
 <h4> TELA LIGHT MODE </h4>
 
-<img src="Captura de tela de 2022-02-14 23-46-41.png">
+<img src="Captura de tela de 2022-02-15 00-31-44.png">
 
